@@ -26,9 +26,6 @@
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/2419756223b10dfc0776df6b85a025b100a64dd3d994a412d501bbbc16ca89bf/68747470733a2f2f7777772e6c6f6769637261797361636164656d792e636f6d2f626c6f672f77702d636f6e74656e742f75706c6f6164732f323032302f30342f707974686f6e2d70726f6772616d6d696e672e706e67" alt="Python"  width="150px" height="100px">
-    </td>
-    <td align='center'>
         <img src="https://camo.githubusercontent.com/c0f29035c6709cf027b760604063e14e94308d2a979862926f900311fb78f44a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64392f4e6f64652e6a735f6c6f676f2e7376672f3132303070782d4e6f64652e6a735f6c6f676f2e7376672e706e67" alt="Node-JS"  width="150px" height="100px">
     </td>
     <td align='center'>
@@ -49,9 +46,6 @@
         <img src="https://th.bing.com/th/id/OIP.fKtEA6VSuCPh0nCy2VTnZQHaE8?pid=ImgDet&rs=1" alt="CSS"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://logos-download.com/wp-content/uploads/2016/09/Heroku_logo.png" alt="Heroku"  width="150px" height="100px">
-    </td>
-    <td align='center'>
         <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VS-CODE"  width="150px" height="100px">
     </td>
     <td align='center'>
@@ -66,9 +60,6 @@
         <img src="https://camo.githubusercontent.com/f5f99ac45e661ee1e97a71bd6bb8679c4def6bc656d3e05824fb67fe2f417300/68747470733a2f2f7777772e61727469636c65737468656d652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f31322f72656163742d6e61746976652d312d312e706e67" alt="React-Native"  width="150px" height="100px">
     </td>
     <td align='center'>
-        <img src="https://camo.githubusercontent.com/e383642e7b66f526a889c6134d399c348124cede7e6ff1bd2ae81b30ee4f0138/68747470733a2f2f7777772e636f646573616e7361722e636f6d2f73746f726167652f6170702f6d656469612f73656f2f646172742e706e67" alt="Dart"  width="150px" height="100px">
-    </td>
-    <td align='center'>
         <img src="https://camo.githubusercontent.com/6f9570aff7d235de6c1661ac7bd99751180bd33fbe9ef2b87ccc501e8308643b/68747470733a2f2f7777772e74616476697365722e72752f696d616765732f642f64362f5468756d626e61696c5f313635303238383832332e6a7067" alt="Github"  width="150px" height="100px">
     </td>
     <td align='center'>
@@ -78,15 +69,6 @@
 <tr>
     <td align='center'>
         <img src="https://th.bing.com/th/id/R.dac3406fc708c69390f478b5ee16e0fc?rik=%2fEYRaMVNx0jllw&pid=ImgRaw&r=0" alt="Bootstrap 5"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://miro.medium.com/v2/resize:fit:800/1*8hhfdEqRkRQSaJrJlx60zg.png" alt="Chakra-UI"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://www.argenova.com.tr/uploads/IntelliJ-Idea-logo1.png" alt="IntelliJ IDEA"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://th.bing.com/th/id/OIP.rQ0TiypgG55Wz4Bq0RXnzAHaEK?pid=ImgDet&rs=1" alt="Linux"  width="150px" height="100px">
     </td>
     <td align='center'>
         <img src="https://camo.githubusercontent.com/a769c0730c35b7533032dc86ee2505ff006d5cdf5f0eb40279a446fae2124b08/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f7072656d69756d2f706e672d3235362d7468756d622f736373732d332d3233363239342e706e67" alt="SCSS"  width="150px" height="100px">
@@ -102,9 +84,6 @@
     </td>
     <td align='center'>
         <img src="https://camo.githubusercontent.com/46543f4b98b4279612e9e7b9e58eb8aeca4f384e342100e1a59009ec0a730d0b/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3630302f302a377a4d6963772d4666546843624e33352e706e67" alt="OOP"  width="150px" height="100px">
-    </td>
-    <td align='center'>
-        <img src="https://camo.githubusercontent.com/4039c860bf72a8d84aefdc87a57ed5b295d676b1411a6843518f2e06d6341594/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f343030302f302a6270743368646e3871365877344d4f5a2e706e67" alt="JAVA"  width="150px" height="100px">
     </td>
      <td align='center'>
         <img src="https://camo.githubusercontent.com/46fb6f1f047a283e22facb71679877bd399e48486872aa26a2d65d708a2444c4/68747470733a2f2f74682e62696e672e636f6d2f74682f69642f522e65313937313665366434396438623339356262343334333235363934353362383f72696b3d52456f334c71344861337a526d41267069643d496d6752617726723d30" alt="Data Structure & Algorithms"  width="150px" height="100px">
@@ -140,12 +119,6 @@
 		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p> -->
-
-# Github Metrics
-
-<p align="center">
-	<img width="625em" src="./github-metrics.svg" />
-</p>
 <!---
 Abdullah9715/Abdullah9715 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
