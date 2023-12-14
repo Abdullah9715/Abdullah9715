@@ -123,14 +123,13 @@
 <a href="mailto:muftimuhammadabdulah225@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-muftimuhammadabdulah225@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="[https://www.facebook.com/ahmad.jajja.9081/](https://www.facebook.com/profile.php?id=100026635785558&mibextid=ZbWKwL)" target="_blank"><img src="https://img.shields.io/badge/-Muhammad Abdullah-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 <!--   ## Consistency👨‍💻  -->
+	
   <h2><i>⚙️ GitHub Analytics</i></h2>
 
 <p align="center">
 <a href="https://github.com/Abdullah9715">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Ahmadjajja&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ahmadjajja&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Abdullah9715&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
-  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmadjajja&show_icons=true&locale=en&layout=demo&theme=merko&hide_border=true" />
 </p>
 </p>
 
