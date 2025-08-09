@@ -19,7 +19,6 @@
   .
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Eager to learn Mern stack developoing and AI learning.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
 - 📫 How to reach me *muftimuhammadabdullah225@gmail.com*.
 
 <h2><i>💻 Tech Stack</i></h2>
